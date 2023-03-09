@@ -1,3 +1,4 @@
+######### This SQL Rule just reassigns a ticket from one owner to another automatically ##########
 ##### The Select Query #####
 
 select
